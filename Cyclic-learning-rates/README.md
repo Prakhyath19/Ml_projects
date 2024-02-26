@@ -7,6 +7,9 @@ This article assumes that the reader is familiar with the concepts of a Cyclic l
 Leslie N. Smith](https://arxiv.org/abs/1506.01186).
 - Kudos to [bckenstler's CLR repo](https://github.com/bckenstler/CLR)
 
+**Notebook:**
+- [MyNotebook](./Concept_cyclic-learning-rates.ipynb)
+
 ## 1. Little brief about Learning Rates and Cyclic Learning Rates:
 ### 1.1 What is Learning Rate:
 
